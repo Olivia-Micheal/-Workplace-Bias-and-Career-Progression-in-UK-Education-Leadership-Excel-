@@ -54,7 +54,8 @@ Data Coding | Data Cleaning | Composite Score Creation | ANOVA | Hypothesis Test
 - **Format:** Raw text responses across multiple columns
 - **Topics covered:** Demographics, workplace bias perception, career progression behaviour, professional environment assessment
 
-> **[INSERT IMAGE HERE — Screenshot of your raw questionnaire data before any cleaning. This shows the messy text responses Excel could not calculate]**
+<img width="1873" height="837" alt="Raw Questionaire" src="https://github.com/user-attachments/assets/43283a23-f98c-4cca-81ba-8ef93da4a16e" />
+
 > *Figure 1: Raw questionnaire dataset as received*
 
 ---
@@ -82,7 +83,8 @@ The raw dataset contained text responses that Excel could not calculate. Every c
 | Environment | Moderately important | 4 |
 | Environment | Very important | 5 |
 
-> **[INSERT IMAGE HERE — Screenshot of your Coding Key sheet showing all coded variables and their assigned values]**
+<img width="705" height="838" alt="coding keys" src="https://github.com/user-attachments/assets/6f3ea462-259b-4773-a6a4-8f6499753e1c" />
+
 > *Figure 2: Coding reference sheet*
 
 ---
@@ -95,7 +97,8 @@ Three composite scores were created by summing related columns for each responde
 - **PPE (Perceived Professional Environment)** - total score from all importance columns. Measures how each person valued their work environment.
 - **CP (Career Progression)** - total score from all career behaviour columns. Measures how much each person changed their behaviour just to advance in their career.
 
-> **[INSERT IMAGE HERE — Screenshot of your clean Summary sheet showing Gender, Age, Experience, PB, PPE and CP columns with all 35 rows of data]**
+<img width="1613" height="801" alt="Screenshot 2026-09-11 150220" src="https://github.com/user-attachments/assets/716a6765-2386-4824-8704-a50688019f66" />
+
 > *Figure 3: Clean summary sheet with composite scores*
 
 ---
@@ -122,7 +125,8 @@ If both conditions are met - the difference between groups is real, not random. 
 | H4 | Gender vs Career Progression | 7.15 | 0.009 | 3.98 | ✅ Significant |
 | H5 | Demographics vs Professional Environment | 375.03 | 2.22E-29 | 3.98 | ✅ Significant |
 
-> **[INSERT IMAGE HERE — Screenshot of your H4 ANOVA output showing Gender vs Career Progression. This is your strongest and most surprising finding]**
+<img width="893" height="783" alt="Screenshot 2026-09-11 150419" src="https://github.com/user-attachments/assets/d9717b1e-a376-4ed2-af5f-0e8a045b9cc4" />
+
 > *Figure 4: ANOVA output for H4 - Gender vs Career Progression*
 
 ---
@@ -172,7 +176,7 @@ Four out of five hypotheses confirmed what many education leaders have experienc
 
 ## Author & Contact
 
-**[Olivia Anetoh](https://www.linkedin.com/in/olivia-anetoh-955b94328)**
+**Olivia Anetoh**
 
 Data Analyst focused on turning raw, unstructured data into clear business insights.
 
@@ -189,13 +193,21 @@ You can access the full project files used in this analysis below.
 - [View Excel File - Dashboard & ANOVA Results](https://docs.google.com/spreadsheets/d/16-uxDERNP4HS6xtiPss-8XE9XZx5srWo/edit?usp=drivesdk&ouid=111577166428921651968&rtpof=true&sd=true)
 - [View Written Report](https://docs.google.com/document/d/1UQHvDRUCDnTpaawhWmNiEwB_ghUIJ-az/edit?usp=drivesdk&ouid=111577166428921651968&rtpof=true&sd=true)
 
-> **[INSERT IMAGE HERE - Full dashboard screenshot showing all 35 respondents unfiltered]**
+<img width="1697" height="1011" alt="Full Anova Dashboard" src="https://github.com/user-attachments/assets/8fd47106-f27e-4978-b07e-8b41c9fc0b24" />
+
+
 > *Figure 5: Full interactive dashboard - all respondents*
 
-> **[INSERT IMAGE HERE - Dashboard filtered to Female respondents, 10 respondents]**
-> *Figure 6: Dashboard filtered to Female respondents (10)*
 
-> **[INSERT IMAGE HERE - Dashboard filtered to Male respondents, 25 respondents]**
+<img width="1496" height="1000" alt="Female Dashboard" src="https://github.com/user-attachments/assets/86d2ef0e-0f32-4665-9114-7a63d0f89df6" />
+
+
+> *Figure 6: Dashboard filtered to Female respondents (10)*
+> 
+
+<img width="1685" height="998" alt="Male Dashboard" src="https://github.com/user-attachments/assets/6e75ac50-b6ff-41b1-be40-7fe3fc29e509" />
+
+
 > *Figure 7: Dashboard filtered to Male respondents (25)*
 
 *Note: Excel file opens in Google Sheets. For best experience, download and open in Microsoft Excel.*
