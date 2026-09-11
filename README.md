@@ -143,4 +143,23 @@ A result is significant when:
 
 ---
 
-## Repository Structure
+## Author & Contact
+
+**Olivia Anetoh**
+
+Data Analyst focused on turning raw, unstructured data into 
+clear business insights.
+
+- LinkedIn: [Olivia Anetoh](your LinkedIn URL here)
+- GitHub: [Olivia-Michael](your GitHub URL here)
+- Email: anetohchinecherem@gmail.com
+
+
+## Download Project Files
+
+You can download the full project files used in this analysis below.
+
+- [Download Excel File (Dashboard & ANOVA Results)](paste your Google Drive or OneDrive link here)
+- [Download Written Report](paste your Word document link here)
+
+*Note: Files are shared for viewing purposes.*
